@@ -1,4 +1,4 @@
-# Эквивариантное предсказание молекулярных тензоров
+# equivariant-molecular-tensors
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmmaximov/equivariant-molecular-tensors/blob/main/equivariant_molecular_tensors.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
