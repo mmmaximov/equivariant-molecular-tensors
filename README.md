@@ -1,6 +1,6 @@
 # Эквивариантное предсказание молекулярных тензоров
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmmaximov/equivariant-molecular-tensors/blob/main/equivariant_molecular_tensors.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QFq7Jwqjf21kEVIBzYsLCMDsTxau2VON?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Dataset: QM9S](https://img.shields.io/badge/dataset-QM9S-006400.svg)](https://figshare.com/articles/dataset/QM9S_dataset/24235333)
